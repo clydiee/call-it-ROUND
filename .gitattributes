@@ -1,0 +1,2 @@
+*.cs linguist-dectectable=true
+*.cs linguist-language=cs
